@@ -1,0 +1,30 @@
+{
+  "name": "ipfs-mirror",
+  "version": "0.0.1",
+  "description": "Reconfigure Victor Bjelkholm's IFPScrape to gather and rehost an entire website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichiganEddy/ipfs-mirror.git"
+  },
+  "keywords": [
+    "IPFS",
+    "Scraper"
+  ],
+  "author": "Chris Carlson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichiganEddy/ipfs-mirror/issues"
+  },
+  "homepage": "https://github.com/MichiganEddy/ipfs-mirror#readme",
+  "devDependencies": {
+    "chalk": "^1.1.3",
+    "eslint": "^3.17.1",
+    "graceful-fs": "^4.1.11",
+    "needle": "^1.5.2",
+    "shelljs": "^0.7.7"
+  }
+}
